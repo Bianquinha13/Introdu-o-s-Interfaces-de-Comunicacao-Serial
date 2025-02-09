@@ -1,1 +1,2 @@
-# Introdu-o-s-Interfaces-de-Comunicacao-Serial
+# Introduçãos-Interfaces-de-Comunicacao-Serial
+Este trabalho consiste na produção de um codigo para execução de uma interface serial, onde a partir do momento que o usuário digita um caracter, será apresentado, e caso seja digitado um número, o mesmo será visualizado na matriz de led 5x5. Além de ter outra funcionalidade com os botões, onde ao acionar o botão A, poderá ligar e desligar o led verde e com o botão b será possivel desligar e ligar o led azul.
